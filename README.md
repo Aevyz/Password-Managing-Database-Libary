@@ -2,7 +2,7 @@
 
 
 ## What is this?
-This is a Project to manage a Password Database. It is hopefully modular enough to support the writing off other DB software. Currently it implements only MYSQL based Databases, but feel free to request a DB if you wish. 
+Basic attempt to write a Login Tool with a SQL Server backend. 
 
 ## Features
 * [Password Encryption and Hashing Tools](https://aevyz.github.io/PasswordDatabaseAPI/javadocs/io/github/aetherv/encryption/EncryptionUtils.html)
